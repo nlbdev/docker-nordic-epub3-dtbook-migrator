@@ -1,4 +1,4 @@
-FROM josteinaj/pipeline-docker
+FROM josteinaj/docker-daisy-pipeline
 
 MAINTAINER Jostein Austvik Jacobsen
 
